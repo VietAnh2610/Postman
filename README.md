@@ -32,6 +32,8 @@ Dưới đây là kết quả kiểm thử:
 - PATCH User by ID: Yêu cầu thành công với mã trạng thái 200 hoặc 204 và thông tin người dùng được cập nhật chính xác.
 - DELETE User by ID: Yêu cầu thành công với mã trạng thái 204.
 
+![image](https://github.com/VietAnh2610/Postman/assets/129382437/da9d825e-a347-4dc0-8fe1-bf04bba0fba9)
+
 ## Khuyến nghị
 
 Dựa trên kết quả kiểm thử, dưới đây là các khuyến nghị:
@@ -40,6 +42,7 @@ Dựa trên kết quả kiểm thử, dưới đây là các khuyến nghị:
 2. Đảm bảo hệ thống có khả năng xử lý yêu cầu với thời gian trễ một cách hiệu quả.
 3. Xác thực thông tin đăng nhập và xử lý lỗi một cách hợp lý khi đăng nhập.
 4. Xác thực ID người dùng và xử lý lỗi một cách hợp lý khi lấy thông tin, cập nhật hoặc xóa người dùng.
+
 
 ## Liên hệ
 
