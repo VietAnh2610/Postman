@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "i": "^0.3.7",
+    "json-server": "^1.0.0-alpha.23",
+    "script": {
+      "start": "json-server --watch products.json",
+      "test": "echo \"Errol: no test specified\" && exit 1"
+    },
+  }
+}
